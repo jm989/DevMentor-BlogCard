@@ -25,6 +25,7 @@ body{
     background-color: #fff;
     border-radius: 20px;
     width: 350px;
+    height: 500px;
 }
 .card-image img{
     border-radius: 35px;
@@ -32,6 +33,6 @@ body{
 }
 .category-info h1{
     font-size: 16px;
-
+    
 }
 
