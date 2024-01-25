@@ -11,11 +11,11 @@
 }
 @font-face {
     font-family: 'bold-figtree';
-    src: url("./assets/fonts/static/Figtree-ExtraBold.ttf");
+    src: url("Figtree-ExtraBold.ttf");
 }
 @font-face {
     font-family: 'semibold-figtree';
-    src: url("./assets/fonts/static/Figtree-SemiBold.ttf");
+    src: url("Figtree-SemiBold.ttf");
 }
 body{
     padding: 20;
